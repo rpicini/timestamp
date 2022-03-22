@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\bin\Debug\netcoreapp3.1\Timestamp.CrossCutting.deps.json
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\bin\Debug\netcoreapp3.1\Timestamp.CrossCutting.dll
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\bin\Debug\netcoreapp3.1\Timestamp.CrossCutting.pdb
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.dll
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.CrossCutting\obj\Debug\netcoreapp3.1\Timestamp.CrossCutting.pdb

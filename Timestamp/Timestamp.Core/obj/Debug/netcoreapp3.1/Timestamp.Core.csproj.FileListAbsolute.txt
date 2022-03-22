@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\bin\Debug\netcoreapp3.1\Timestamp.Core.deps.json
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\bin\Debug\netcoreapp3.1\Timestamp.Core.dll
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\bin\Debug\netcoreapp3.1\Timestamp.Core.pdb
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.dll
+C:\Users\Administrator\Documents\GitHub\Timestamp\Timestamp\Timestamp.Core\obj\Debug\netcoreapp3.1\Timestamp.Core.pdb
